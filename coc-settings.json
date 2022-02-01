@@ -1,0 +1,105 @@
+{
+    "coc.preferences.formatOnType": true,
+    "coc.preferences.formatOnSaveFiletypes": [
+        "javascript",
+        "typescript",
+        "typescriptreact",
+        "json",
+        "javascriptreact",
+        "vue",
+        "jsx",
+        "javascript.jsx",
+        "python"
+    ],
+    "suggest.detailField": "preview",
+    "suggest.maxCompleteItemCount": 7,
+    "suggest.completionItemKindLabels": {
+        "keyword": "",
+        "variable": "",
+        "value": "",
+        "operator": "Ψ",
+        "function": "⨕",
+        "reference": "渚",
+        "constant": "",
+        "method": "",
+        "struct": "פּ",
+        "class": "",
+        "interface": "",
+        "text": "♣",
+        "enum": "",
+        "enumMember": "",
+        "module": "",
+        "color": "",
+        "property": "",
+        "field": "",
+        "unit": "",
+        "event": "鬒",
+        "file": "",
+        "folder": "",
+        "snippet": "",
+        "typeParameter": "",
+        "default": ""
+    },
+    "coc.preferences.snippetStatusText": "Ⓢ ",
+    "snippets.priority": 1,
+    "suggest.languageSourcePriority": 99,
+    "coc.source.file.priority": 2,
+    "coc.source.around.priority": 3,
+    "coc.source.buffer.priority": 4,
+    // diagnostics
+    "diagnostic.errorSign": " ",
+    "diagnostic.warningSign": " ",
+    "diagnostic.infoSign": "",
+    "diagnostic.hintSign": " ",
+    "diagnostic.virtualText": true,
+    "python.jediPath": "/home/mr-zero/.local/lib/python3.9/site-packages",
+    "snippets.ultisnips.directories": [
+        "UltiSnips",
+        "~/.vim/snips"
+    ],
+    "snippets.userSnippetsDirectory": "~/.vim/snips",
+    "snippets.extends": {
+        "scss": [
+            "css"
+        ],
+        "sass": [
+            "css"
+        ],
+        "less": [
+            "css"
+        ],
+        "xml": [
+            "xml"
+        ],
+        "vim": [
+            "vim"
+        ],
+        "snippets": [
+            "snippets"
+        ],
+        "html": [
+            "angularhtml",
+            "angularmaterial",
+            "angularflexlayout"
+        ],
+        "javascriptreact": [
+            "javascript"
+        ],
+        "typescriptreact": [
+            "javascript",
+            "javascript-jasmine-arrow"
+        ],
+        "typescript": [
+            "javascript",
+            "javascript-jasmine-arrow"
+        ],
+        "cpp": [
+            "c"
+        ],
+        "javascript.jsx": [
+            "javascriptreact",
+            "html"
+        ]
+    },
+    "npm.binPath": "/usr/bin/npm"
+}
