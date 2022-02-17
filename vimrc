@@ -464,7 +464,7 @@ function! StartifyEntryFormat()
         return 'WebDevIconsGetFileTypeSymbol(absolute_path) ." ". entry_path'
 endfunction
 let g:startify_bookmarks = [
-            \ { 'i': '~/.vimrc' },
+            \ { 'i': '~/.vim/vimrc' },
             \ { 'z': '~/.zshrc' },
             \ { 't': '~/.tmux.conf' },
             \ { 'c': '~/.config/kitty/kitty.conf' },
